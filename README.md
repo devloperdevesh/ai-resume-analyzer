@@ -57,21 +57,21 @@ OCR + NLP Models
 👨‍💻 Team Members
 Role	Name	Roll No
 
-Leader	Karan Kumar Tiwari	230222010089
+Leader	Karan Kumar Tiwari	2302220100093
 
-Developer	Devesh Chauhan	230222010064
+Developer	Devesh Chauhan	2302220100064
 
-Developer	Devansh Chaurasia	230222010063
+Developer	Devansh Chaurasia	2302220100063
 
 🛠️ Installation & Setup
 1. Clone the repository
-git clone https://github.com/devloperdevesh/talentify.git
-cd talentify
+git clone https://github.com/devloperdevesh/ai-resume-analyser.git
+cd ai-resume-analyser
 
-2. Install dependencies
+3. Install dependencies
 npm install
 
-3. Add environment variables
+4. Add environment variables
 
 Create a .env file:
 
