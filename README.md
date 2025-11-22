@@ -61,7 +61,7 @@ Developer	Devesh Chauhan	230222010064
 Developer	Devansh Chaurasia	230222010063
 🛠️ Installation & Setup
 1. Clone the repository
-git clone https://github.com/your-username/talentify.git
+git clone https://github.com/devloperdevesh/talentify.git
 cd talentify
 
 2. Install dependencies
